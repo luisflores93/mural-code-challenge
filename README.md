@@ -10,7 +10,7 @@
 
 ### dev notes:
 
-- there are some features I were not able to do, like create a FIAT transfer request, and execute transfer, I'll attach API responses in the root.
+- there are some features I were not able to do, like create a FIAT transfer request, and execute transfer, I'll attach API responses screenshots in the root.
 
 ### Coding Challenge
 
